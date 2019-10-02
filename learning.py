@@ -19,10 +19,10 @@ print(3 + 2 < 5 - 7)
 
 
 # variables
-cars = 100
+cars = 80
 space_in_a_car = 4.0
-drivers = 30
-passengers = 90
+drivers = 40
+passengers = 115
 carsNotDriven = cars - drivers
 cars_driven = drivers
 carpool_capacity = cars_driven * space_in_a_car
